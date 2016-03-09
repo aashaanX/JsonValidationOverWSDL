@@ -1,4 +1,4 @@
-package com.ingbank.esb.json.model;
+package com.devside.esb.json.model;
 
 import junit.framework.TestCase;
 
